@@ -1,11 +1,11 @@
 ## Install
 
-npm install jackasm.node
-
-or 
-
 npm install -g jackasm.node
+
+## Usage
+
+jackasm.node _asm_source_
 
 ## Test
 
-Assemble test/*.asm files and compare produced .hack files with test/answer/*.hack files.
+Assemble node_modules/jackasm.node/test/\*.asm files and compare produced .hack files with its test/answer/\*.hack files.
