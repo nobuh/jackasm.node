@@ -1,0 +1,26 @@
+{
+  "name": "jackasm.node",
+  "version": "0.0.1",
+  "description": "nand2tetris Jack Machine Language Assembler in node.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobuh/jackasm.node.git"
+  },
+  "keywords": [],
+  "author": "nobuh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nobuh/jackasm.node/issues"
+  },
+  "homepage": "https://github.com/nobuh/jackasm.node#readme",
+  "bin": {
+    "jackasm.node": "jackasm.js"
+  },
+  "main": "jackasm.js"
+}
