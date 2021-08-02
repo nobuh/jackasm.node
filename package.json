@@ -1,6 +1,6 @@
 {
   "name": "jackasm.node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nand2tetris Jack Machine Language Assembler in node.js",
   "directories": {
     "test": "test"
